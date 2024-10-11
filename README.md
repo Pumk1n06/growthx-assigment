@@ -1,5 +1,5 @@
 # Prerequisites
-The following should be installed in the system 
+## The following should be installed in the system
 ```
 1.Node.js
 2.MongoDB
@@ -20,4 +20,5 @@ JWT_SECRET=your_jwt_secret_key # A secret key used for JWT signing (choose any s
 ```
 npm start
 ```
-**API endpoints and format is available in info.md**
+
+***API endpoints and format is available in info.md***
